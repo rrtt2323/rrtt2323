@@ -1,4 +1,4 @@
-name: generate animation
+name: generate snake animation
 
 on:
   # 每24小时自动运行一次
