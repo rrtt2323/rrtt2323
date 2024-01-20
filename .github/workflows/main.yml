@@ -1,4 +1,4 @@
-name: generate snake animation
+name: 生成贪吃蛇的动画
 
 on:
   # 每24小时自动运行一次
